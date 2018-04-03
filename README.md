@@ -1,3 +1,3 @@
 # repository
-Repository
-try my first commit
+Repository of my code. 
+Used to try everything.
